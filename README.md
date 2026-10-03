@@ -41,17 +41,10 @@ Desarrollador de software apasionado por la creación de soluciones eficientes, 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 * **Metodologías:** SCRUM, Cascada, Espiral.
+
 * **Otras Herramientas:** Varicent ICM, Microsoft Office, Unreal Engine, Wix Studio.
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ## 🚀 Proyectos y Experiencia Destacada
@@ -95,4 +88,4 @@ Desarrollador de software apasionado por la creación de soluciones eficientes, 
 
 ## 📫 Cómo contactarme
 
-* 📧 [Envíame un correo](mailto:moisesdavidramon@outlook.com)
+* 📧 [Envíame un correo](jonathan15angel@.com)
