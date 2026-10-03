@@ -88,4 +88,4 @@ Desarrollador de software apasionado por la creación de soluciones eficientes, 
 
 ## 📫 Cómo contactarme
 
-* 📧 [Envíame un correo](jonathan15angel@.com)
+* 📧 [Envíame un correo](mailto:jonathan15angel@.com)
