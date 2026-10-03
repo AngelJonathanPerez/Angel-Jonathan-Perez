@@ -8,8 +8,6 @@ Desarrollador de software apasionado por la creación de soluciones eficientes, 
 
 ## 🚀 Sobre mí
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </p>
 
 - 💻 Enfoque actual: Desarrollando soluciones robustas con .NET y bases de datos transaccionales.
