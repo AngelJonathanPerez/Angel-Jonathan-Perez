@@ -10,7 +10,7 @@ Desarrollador de software apasionado por la creación de soluciones eficientes, 
 
 </p>
 
-- 💻 Enfoque actual: Desarrollando soluciones robustas con .NET y bases de datos transaccionales.
+- 💻 Enfoque actual: Desarrollando soluciones robustas con .NET y bases de datos.
 - 📍 Ubicación: México
 - 🎯 Misión: Escribir código limpio, escalable y con buenas prácticas.
 
